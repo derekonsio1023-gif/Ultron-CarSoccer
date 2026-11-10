@@ -1,0 +1,27 @@
+Termos de patrocínio e privacidade
+Versão 2026-09-13.1
+
+
+Privacidade: dados e finalidades
+Revisão do aviso de privacidade 2026-09-13.1. Salvar aviso de privacidade (.txt) (/legal/privacy-2026-09-13.1.pt.txt)
+A MAGMARCAS LTDA é responsável pelos dados pessoais que trata para este jogo e serviço. A identificação e o contato de privacidade estão acima. Utilizamos as informações necessárias às finalidades abaixo.
+Dados | Finalidade e fundamento | 
+Identidade empresarial, arte, site, identificador, versão aceita dos termos e registros de pagamentos e reembolsos | Execução e documentação do contrato publicitário, obrigações legais e exercício de direitos. Nome, arte, site e saldo do ranking são públicos. | 
+Resumo criptográfico do código de recuperação e registros de segurança | Autenticação e prevenção de abuso, pela necessidade contratual e por interesses legítimos proporcionais de segurança. | 
+Mensagens e evidências de atendimento | Responder, exercer direitos, apurar denúncias e cumprir obrigações. Acesso limitado a quem precisa. | 
+Preferências, arquivos offline e progresso de tempo ativo | Armazenamento no dispositivo para funcionamento e escolhas do jogo. O contador de tempo ativo não é enviado ao servidor de patrocínio. | 
+Estatísticas de visitas | O Cloudflare Web Analytics recebe medições de carregamento e desempenho, caminhos das páginas, origens e metadados comuns do navegador/dispositivo para apresentar visitas, visualizações e desempenho agregados. Não utiliza cookies de estatísticas nem identificadores persistentes de visitantes. Não enviamos eventos de jogo nem gravações de sessão. As estatísticas ficam ativadas por padrão; você pode desativá-las abaixo. A coleta pela PostHog foi descontinuada. | 
+Não direcionamos patrocínios com base em comportamento. Anunciantes não recebem perfis de jogadores nem relatórios individuais de visualização. Nossa configuração não grava sessões, captura cliques automaticamente ou acompanha controles do jogo. Não vendemos dados dos jogadores. Do Not Track e Global Privacy Control desativam estatísticas opcionais. Requisições essenciais ainda expõem IP e metadados técnicos aos provedores de infraestrutura.
+Os registros financeiros também incluem a taxa e a data de referência usadas no preço, o crédito no ranking e a moeda e o valor efetivamente pagos, para documentar a compra, conciliar pagamentos e calcular reembolsos.
+
+
+Provedores, conservação e seus direitos
+A Stripe coleta dados de pagamento, cobrança, prevenção de fraude e tributos exigidos em seu próprio checkout. Guardamos referências e status financeiro, não números completos de cartão ou CVC. A Stripe também possui obrigações próprias; consulte sua Política de Privacidade (https://stripe.com/br/privacy). A hospedagem do site e as estatísticas de visitas utilizam a Cloudflare. O serviço de patrocínios utiliza Amazon Web Services nos Estados Unidos. Provedores podem tratar dados em outros países conforme contratos e salvaguardas aplicáveis; solicite detalhes pelo contato de privacidade.
+Dados locais ficam no dispositivo até serem apagados. Limpar o navegador pode eliminar arquivos offline, progresso de tempo e códigos: mantenha uma cópia privada do código. Material do patrocínio é conservado enquanto a participação operar. Registros financeiros, versões aceitas e disputas podem exigir conservação após remoção para fins contábeis ou exercício de direitos. Revisamos a necessidade e eliminamos ou anonimizamos quando cessarem as finalidades. Backups e registros de provedores podem seguir prazos legais próprios. Sair do ranking não equivale a apagar todos os registros financeiros.
+Você pode solicitar confirmação, acesso, correção, eliminação ou anonimização quando cabíveis, informações sobre compartilhamento, portabilidade conforme regras aplicáveis e revisão de cálculo automatizado ou posição contestada. Pode desligar as estatísticas abaixo, retirar consentimento quando aplicável e questionar tratamento ilícito. Podemos exigir prova proporcional de identidade. Pedir exclusão não exige renunciar a reembolsos legais; eventual retenção obrigatória será explicada. Também é possível procurar a ANPD.
+Não envie dados de crianças em anúncios ou suporte. Pais ou responsáveis podem desligar as estatísticas de visitas para crianças usando a opção abaixo. Anúncios não são personalizados por interesses ou tempo de jogo de crianças. Obrigações de proteção infantil aplicam-se independentemente destes termos: gratuidade ou contratação por adulto não as excluem.
+
+
+Sua escolha de privacidade
+As estatísticas de visitas ficam ativadas por padrão. Desative-as abaixo para interromper a coleta neste dispositivo; uma recusa explícita anterior continua sendo respeitada. Do Not Track e Global Privacy Control também desativam a coleta. É possível jogar e patrocinar com as estatísticas desligadas. A preferência não altera ranking nem o contador local de tempo ativo.
+JavaScript é necessário para mudar a preferência local. Esta página jurídica não envia estatísticas.

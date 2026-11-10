@@ -1,0 +1,27 @@
+Car Soccer - Game License
+Version 2026-09-24
+
+Copyright (c) 2026 MAGMARCAS LTDA. All rights reserved in the original
+Car Soccer code and assets owned by MAGMARCAS LTDA.
+
+You may play Car Soccer through https://car-soccer.com/ and official app
+distributions, including using the local copies and browser caches created
+by their normal installation and offline-play features. You may share your
+own gameplay screenshots, recordings, streams, and exported replays,
+including monetized gameplay videos and streams.
+
+Except for that permission, an applicable third-party license, a separate
+written agreement, or rights provided by law, no permission is granted to
+copy, modify, redistribute, sell, sublicense, or publicly host the game's
+code or assets, in whole or in part. Downloading the game to play it does
+not grant permission to publish another playable copy or distribute its
+code or assets separately.
+
+Third-party materials retain their respective owners and licenses. See
+THIRD_PARTY_NOTICES.md and the component-specific notices and license files.
+This notice does not change those licenses, claim ownership of third-party
+material, or revoke rights previously granted under a valid license.
+It does not restrict rights that cannot be limited under applicable law.
+
+Permissions and rights inquiries: support@xl-master.com
+Publisher: MAGMARCAS LTDA (CNPJ 50.616.924/0001-95)

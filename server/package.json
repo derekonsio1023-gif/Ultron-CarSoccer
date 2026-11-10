@@ -1,0 +1,20 @@
+{
+  "name": "car-soccer-signaling-server",
+  "version": "1.0.0",
+  "description": "Servidor de signaling para Car Soccer",
+  "main": "signaling-server.js",
+  "scripts": {
+    "start": "node signaling-server.js",
+    "dev": "node signaling-server.js"
+  },
+  "keywords": [
+    "webrtc",
+    "signaling",
+    "car-soccer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}

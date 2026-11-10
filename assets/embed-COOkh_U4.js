@@ -1,0 +1,1 @@
+import"./persisted-sODZFpJB.js";import"./main-B95SF9Gf-mp.js";import"./generatedCues-BLb45A3N.js";import"./controllers-DoMZqhdH.js";document.addEventListener("click",t=>{const e=t.target instanceof Element?t.target.closest("a[data-embed-open]"):null;e&&(e.href="/"+location.hash)},!0);

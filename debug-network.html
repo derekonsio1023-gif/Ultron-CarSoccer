@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debug Network - Car Soccer</title>
+    <style>
+        body {
+            font-family: monospace;
+            padding: 20px;
+            background: #1a1a1a;
+            color: #00ff00;
+        }
+        #logs {
+            background: #000;
+            padding: 10px;
+            border: 1px solid #00ff00;
+            max-height: 500px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+        }
+        .info { color: #00ffff; }
+        .error { color: #ff0000; }
+        .warn { color: #ffff00; }
+        .success { color: #00ff00; }
+    </style>
+</head>
+<body>
+    <h1>🔍 Debug Network - Car Soccer</h1>
+    <p>Este script interceptará todas las peticiones de red para identificar el servidor de signaling.</p>
+    
+    <button onclick="startCapture()">🚀 Iniciar Captura</button>
+    <button onclick="clearLogs()">🗑️ Limpiar Logs</button>
+    <button onclick="saveLogs()">💾 Guardar Logs</button>
+    
+    <div id="logs"></div>
+
+    <script>
+        const logs = document.getElementById('logs');
+        
+        function log(message, type = 'info') {
+            const timestamp = new Date().toISOString();
+            const div = document.createElement('div');
+            div.className = type;
+            div.textContent = `[${timestamp}] ${message}`;
+            logs.appendChild(div);
+            logs.scrollTop = logs.scrollHeight;
+        }
+
+        function clearLogs() {
+            logs.innerHTML = '';
+        }
+
+        function saveLogs() {
+            const content = logs.textContent;
+            const blob = new Blob([content], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'network-logs.txt';
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        function startCapture() {
+            log('🎯 Iniciando captura de red...', 'success');
+            
+            // Interceptar fetch
+            const originalFetch = window.fetch;
+            window.fetch = function(...args) {
+                log(`📤 FETCH: ${args[0]}`, 'info');
+                if (args[1]) {
+                    log(`   Body: ${JSON.stringify(args[1].body)}`, 'info');
+                }
+                return originalFetch.apply(this, args).then(response => {
+                    log(`📥 FETCH Response: ${args[0]} - Status: ${response.status}`, 'success');
+                    return response;
+                }).catch(error => {
+                    log(`❌ FETCH Error: ${args[0]} - ${error.message}`, 'error');
+                    throw error;
+                });
+            };
+
+            // Interceptar WebSocket
+            const originalWebSocket = window.WebSocket;
+            window.WebSocket = function(url, protocols) {
+                log(`🔌 WebSocket conectando a: ${url}`, 'warn');
+                log(`   Protocolos: ${protocols ? protocols.join(', ') : 'ninguno'}`, 'info');
+                
+                const ws = new originalWebSocket(url, protocols);
+                
+                const originalSend = ws.send;
+                ws.send = function(data) {
+                    log(`📤 WebSocket SEND: ${data}`, 'info');
+                    return originalSend.apply(this, arguments);
+                };
+                
+                ws.addEventListener('message', (event) => {
+                    log(`📥 WebSocket MESSAGE: ${event.data}`, 'success');
+                });
+                
+                ws.addEventListener('error', (error) => {
+                    log(`❌ WebSocket ERROR`, 'error');
+                });
+                
+                ws.addEventListener('close', (event) => {
+                    log(`🔌 WebSocket CLOSE - Code: ${event.code}, Reason: ${event.reason}`, 'warn');
+                });
+                
+                ws.addEventListener('open', () => {
+                    log(`✅ WebSocket OPEN`, 'success');
+                });
+                
+                return ws;
+            };
+
+            // Interceptar XMLHttpRequest
+            const originalOpen = XMLHttpRequest.prototype.open;
+            XMLHttpRequest.prototype.open = function(method, url) {
+                log(`📤 XHR ${method}: ${url}`, 'info');
+                return originalOpen.apply(this, arguments);
+            };
+
+            log('✅ Captura iniciada. Ahora abre el juego y el modo multijugador.', 'success');
+            log('📍 Todos los mensajes de red aparecerán aquí.', 'info');
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+const E=3600;function F(e,n,a,o,r){return!Number.isFinite(n)||n<=0||n>.25||!a?(e.engagedFor=0,!1):(e.engagedFor=o&&r?15:Math.max(0,e.engagedFor-n),!r||e.engagedFor<=0||e.seconds>=3600?!1:(e.seconds=Math.min(3600,e.seconds+n),!0))}export{E as A,F as a};

@@ -1,0 +1,26 @@
+Sponsorship terms & privacy
+Version 2026-09-13.1
+
+
+Privacy notice: information and purposes
+Privacy notice revision 2026-09-13.1. Save privacy notice (.txt) (/legal/privacy-2026-09-13.1.en.txt)
+MAGMARCAS LTDA is responsible for the personal data it processes for this game and sponsorship service. The company and privacy contact are identified above. We use the minimum information needed for the following purposes.
+Information | Use and legal basis | 
+Company identity, artwork, website, sponsorship ID, accepted terms version, pricing reference and date, charged currency and amount, and payment/refund records | Provide and document the advertising contract; fulfill legal duties and handle claims. Name, artwork, website and ranking balance are public. | 
+Recovery-code hash and security records | Authenticate sponsorship management and prevent misuse, using contractual necessity and proportionate legitimate interests in security. | 
+Support messages and evidence | Answer requests, exercise rights, investigate complaints and meet legal obligations. Access is limited to people who need it. | 
+Browser preferences, downloaded game assets and active-play progress | Stored on your device to operate the game, remember choices and enable offline play. The active-play counter is not uploaded to the sponsor server. | 
+Page-visit analytics | Cloudflare Web Analytics receives page-load and performance measurements, page paths, referrers and ordinary browser/device metadata to report aggregate visits, page views and site performance. It does not use analytics cookies or persistent visitor identifiers. We do not send gameplay events or session recordings. Analytics are enabled by default; you can switch them off below. PostHog collection has been discontinued. | 
+There is no behavior-based sponsor targeting. Sponsors receive no player profiles or individual viewing reports. There is no session recording, automatic click capture or tracking of game controls in our analytics configuration. We do not sell player data. Do Not Track and Global Privacy Control disable optional analytics. Essential network requests still expose IP addresses and technical metadata to infrastructure providers.
+
+
+Providers, storage & your rights
+Stripe collects payment, billing, fraud-prevention and any required tax information on its own checkout. We retain payment references and financial status, not full card details or CVCs. Stripe also has independent legal and fraud-prevention obligations; see Stripe’s privacy policy (https://stripe.com/br/privacy). Website hosting and page-visit analytics use Cloudflare. The sponsorship backend uses Amazon Web Services in the United States. Providers may process data in other countries under applicable contracts and transfer safeguards; requests for details go to the privacy contact.
+Local game data remain on your device until you clear them. Clearing browser storage can erase offline files, playtime progress and recovery codes; retain a private copy of the code first. Sponsorship material is retained while the listing operates. Financial, accepted-terms and dispute records may need retention after removal to meet accounting requirements or establish legal claims. We review retained data and remove or anonymize it when those purposes end; backups and provider records can follow separate lawful retention periods. A removal from the public leaderboard is not the same as erasing all financial records.
+You can request confirmation, access, correction, deletion or anonymization where applicable, information about sharing, portability subject to applicable rules, and review of a disputed placement or automated calculation. You may switch off analytics below, withdraw consent where applicable and object to unlawful processing. We may request proportionate proof of identity. Deletion requests do not require you to surrender statutory refund rights, and legally required retention is explained where it limits deletion. You may also contact Brazil’s ANPD.
+Do not provide children’s personal data as advertiser material or in support requests. Parents or guardians can switch off page-visit analytics for children using the choice below. Ads are not tailored to a child’s interests or playtime. Any child-protection obligations apply regardless of these terms; describing the game as free or the advertiser as an adult does not exclude them.
+
+
+Your privacy choice
+Page-visit analytics are enabled by default. Switch them off below to stop collection on this device; an earlier explicit refusal remains respected. Do Not Track and Global Privacy Control also disable collection. Playing and sponsoring work with analytics switched off. This choice does not affect ranking or the local hour-of-play counter.
+JavaScript is needed to change the local preference. This legal page itself does not send analytics.

@@ -1,0 +1,127 @@
+{
+  "asset": {
+    "generator": "Ball Soccer asset",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "ball",
+      "mesh": 0
+    }
+  ],
+  "materials": [
+    {
+      "name": "ball-material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3,
+          0.3,
+          0.3,
+          1.0
+        ],
+        "metallicFactor": 0.1,
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1,
+            "NORMAL": 2,
+            "TANGENT": 3,
+            "TEXCOORD_0": 4
+          },
+          "indices": 0,
+          "material": 0
+        }
+      ],
+      "name": "ball"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "ball.bin",
+      "byteLength": 631344
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 122880
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 122880,
+      "byteLength": 127116
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 249996,
+      "byteLength": 127116
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 377112,
+      "byteLength": 169488
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 546600,
+      "byteLength": 84744
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 61440,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 10593,
+      "type": "VEC3",
+      "min": [
+        -0.9212518334388733,
+        -0.9212518334388733,
+        -0.9212518334388733
+      ],
+      "max": [
+        0.9212518334388733,
+        0.9212518334388733,
+        0.9212518334388733
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 10593,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 10593,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 10593,
+      "type": "VEC2"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+Sponsorship terms & privacy
+Version 2026-09-12.2
+Launch draft · 12 September 2026. Sponsorship payments are currently in test mode. This page does not announce a live launch.
+
+The agreement at a glance
+Car Soccer is free to play. Sponsorship is a purchase of advertising from MAGMARCAS LTDA, not a donation, investment, ownership interest, deposit, prize draw or wager. Paying does not improve a player’s car, score, rewards or match results. There is no subscription or automatic renewal.
+You purchase a place in a public, paid-sponsor ranking. Arena display depends on that changing rank. A US$5 first payment starts your balance. You may raise it by at least US$1 at a time. All qualifying payments remain paid when another advertiser overtakes you. In particular, rank 19 and below receives a directory listing but no field placement. Read the visibility and refund limits below before paying.
+The checkout summary, these terms and the accepted content policy form the offer. Mandatory legal protections remain available even where a summary does not repeat them. Save or print this version for your records.
+
+
+Seller, contact & eligibility
+MAGMARCAS LTDA
+CNPJ 50.616.924/0001-95
+Rua 137, nº 556, Edifício Alvorada, Sala 101, Setor Marista, Goiânia, GO, CEP 74170-120, Brasil
+Support, cancellation, advertising complaints and privacy: support@xl-master.com (mailto:support@xl-master.com).
+The purchasing representative must be at least 18, legally able to contract and authorized by the advertiser and payment-method holder. Do not submit children’s personal information. Playing the game does not require purchasing a sponsorship.
+The representative confirms that the company name, website, artwork and payment instructions are accurate. Keep the recovery code private. We store its hash, not a readable copy; it is needed to manage the sponsorship. A lost code requires support and proportionate proof of ownership. We never need your full card number, CVC or bank password in a support request.
+
+
+Price, checkout & confirmation
+Targets are in whole US dollars, up to US$100,000 per sponsorship. If your confirmed balance is US$5 and you choose US$12, the new charge is US$7. Refunded amounts and taxes do not count toward the ranking. A partial refund can leave cents in a balance; the checkout charges the exact difference to your new whole-dollar target, subject to the US$1 minimum increase.
+Before payment, check the artwork, destination, target balance, incremental charge, currency and any tax. You can correct the form and leave or cancel an unpaid checkout. The estimated rank is a forecast, not a reserved slot. Other advertisers may pay while your checkout is open. Publication begins only after the payment provider confirms successful payment; delayed methods may take longer. An unpaid or failed checkout earns nothing.
+Stripe hosts payment collection. The final charge, applicable tax and available methods are shown there. Your bank may apply its own currency-conversion or cross-border charges. Those are not advertising credit or charges collected by us. The US-dollar model is currently a test offer; live currency and country availability must be announced before live sales. A Stripe receipt is not a substitute for any legally required Brazilian tax invoice.
+
+
+How the ranking works
+We rank active, eligible sponsorships by the sum of confirmed advertising payments, less refunds. The higher balance comes first. Equal balances are ordered by when our service first confirmed payment for each sponsorship; the earlier confirmation wins. If those timestamps also match, the stored sponsorship identifier breaks the tie. This deterministic calculation does not involve chance.
+A sponsor’s earlier payments keep counting, with no daily bidding round or automatic reset. Its first-confirmation time remains its tie-breaker when it tops up. Payment reversals reduce its balance; a bank dispute can suspend the listing while resolved. Removed or zero-balance sponsorships do not appear in the ranking. The balance is an accounting measure of advertising purchased, not a transferable wallet or money available for withdrawal except under the refund terms.
+The leaderboard publishes the advertiser name, destination, normalized artwork and net advertising balance. Do not pay if you do not want that information public. We do not sell secret boosts to rank. Buying separate entries or misrepresenting ownership to manipulate placement is prohibited.
+
+
+20 signs, 18 primary positions
+Primary display when at least 18 sponsors qualify
+Rank | Placement | Signs | 
+1 | Opposite end boards below the CAR-SOCCER.COM signs | 2 | 
+2 | Opposite lateral boards on the stands | 2 | 
+3–18 | One ribbon panel between the field curve and the wall | 1 each | 
+19 onward | Public sponsor leaderboard only | 0 in the arena | 
+All artwork has a 4:1 aspect ratio. Rank 1 has the largest boards, rank 2 slightly smaller boards, and the ribbon panels are smaller again. The top-down illustration shows ribbon panels as thin lines for readability; their actual artwork remains 4:1.
+While fewer than 18 sponsors qualify, we assign each its primary positions first. Remaining signs are divided among eligible arena sponsors in proportion to their balances. We take the whole-number part of each share, then award remaining signs to the largest fractional remainders; equal remainders favor higher rank. Extra appearances are interleaved around the arena. With only one sponsor, it occupies all 20 signs. With US$10 at #1 and US$5 at #2, they receive 13 and 7 signs respectively. Once all primary positions are occupied, the extra appearances end.
+Extra appearances never replace another sponsor’s primary allocation. Higher contributions, new sponsors, refunds and removals can change both rank and repeat appearances. A new payment does not buy exclusivity, competitor exclusion or a particular period in a given position.
+
+
+Visibility, duration & player choice
+We do not promise a minimum number of viewers, clicks, conversions, uninterrupted display or time at a particular rank. The listing continues while the sponsorship remains eligible and the sponsorship service operates, subject to these terms. It is not a promise that the game will exist forever. Normal rank changes alone do not entitle you to a refund.
+The game uses the latest available sponsor list when online, ordinarily refreshed about once a minute while the page is visible. Network failures, offline play, outdated open tabs and maintenance can delay or prevent display. Built-in artwork fills unavailable positions. Camera angle and field movement affect visibility. In-game boards do not open websites; sponsor-directory links open an external website chosen by the player.
+After a total of one hour of active play, a player can choose to hide sponsor signs on that device. Time accumulates across sessions, excluding menus, idle time and unfocused pages. Changing the stadium-scenery setting does not itself hide sponsor signs. Accessibility, child-protection or other legally required safeguards may additionally limit advertising or display. The one-hour option does not restrict any mandatory protection.
+If we permanently discontinue the sponsorship service or remove an advertiser because we no longer offer its advertising placement, we will stop new charges and refund its remaining advertising payments under the refund procedure. Statutory remedies for failure to provide the advertised service are not limited by the absence of impression guarantees.
+
+
+Artwork, destinations & prohibited content
+Use a genuine company identity and a public HTTPS destination that you control or are authorized to represent. You must have the necessary copyright, trademark, portrait and other rights. A registration or payment is not proof that we endorse, certify or approve the advertised business.
+Artwork must be static PNG, JPEG or WebP, no larger than 2 MB and 16 megapixels. A 1600 × 400 image is recommended. We resize proportionately into a 4:1 frame, add a background where needed, and remove metadata. No animation, flashing, QR codes, disguised buttons or visuals imitating game controls.
+No sexual content, nudity, adult services, graphic violence or profanity.
+No hate, extremist material, harassment, discriminatory messages, personal attacks or publication of another person’s private information.
+No fraud, misleading claims, impersonation, malicious downloads, piracy, unlawful products or infringement.
+No gambling, betting, alcohol, tobacco, vaping, recreational drugs, weapons or their promotion.
+No political campaigning, high-risk financial or get-rich-quick promotions, or unsubstantiated medical claims.
+No marketing directed at children, pressure on children to purchase or ask adults to purchase, or use of children’s images to promote the sponsorship.
+These rules apply to the name, image, website and material reached from it. Do not swap a safe destination for prohibited content after approval or payment. We may request proof of rights or substantiation, and restrict additional content where necessary to comply with law or payment-provider requirements. Material changes to the published policy follow the change procedure below.
+
+
+Permission to display your brand
+You retain ownership of the submitted material. You give MAGMARCAS a non-exclusive, worldwide, royalty-free permission to host, reproduce, resize and display it solely to provide the sponsorship: the game, its sponsor directory and a placement preview. Our hosting providers may process it for those purposes. We do not acquire your trademark or a right to sell your artwork to others.
+This permission lasts while the sponsorship is active, plus the limited technical period needed to stop serving it and retain lawful records. After removal, we stop new public display through the service. Already-open games may update on their next refresh; copies independently made by others are outside our direct control. Any broader marketing reuse requires separate permission.
+
+
+Cancellation, removal & refunds
+You may cancel each advertising payment within seven calendar days after its confirmation, without giving a reason. We offer this contractual option to all advertisers, in addition to any longer or differently calculated statutory period. In Sponsors → Manage a sponsorship, restore your recovery code, choose “Cancel & refund this payment” and confirm. The service records the request immediately and shows the refund status. You can also contact the support address above; a timely request does not expire because we process it later.
+Refunding an increment reduces the ranking balance by that increment. Refunding every payment removes the paid listing from the ranking. After the seven-day option, a change of mind, lower rank or fewer repeat appearances alone does not require a refund. That does not remove rights concerning defective service, misrepresentation, unauthorized payments or other mandatory grounds. Contact support if a button is unavailable or you believe other rights apply.
+If we remove a sponsorship for violating the content rules, we hide it and refund all its remaining payments, including tax we collected, without deducting processing fees. The same applies to permanent discontinuation by us. Previously refunded sums are not refunded twice. A dispute or payment reversal must be coordinated with Stripe or the bank to avoid duplicate reimbursement; it is not a waiver of a valid refund entitlement.
+Refunds normally return through the original payment method. We initiate the request promptly; the provider and issuing bank control when it appears, commonly around 5–10 business days for cards. Pending or failed refunds remain our responsibility to resolve. If the original method cannot receive a refund, support will arrange a lawful alternative after verifying ownership. Bank exchange-rate changes can affect the local-currency result; statutory reimbursement rights remain intact.
+
+
+Reports, decisions & support
+Report an unsafe advertisement, rights infringement, impersonation or privacy issue to support@xl-master.com (mailto:support@xl-master.com). Identify the sponsor and URL, describe the issue, and include evidence where useful. Do not send unnecessary sensitive information. A report does not require buying a sponsorship.
+We may temporarily hide suspected prohibited or unlawful material while checking it. Removal reasons and payment status are available to the sponsor through its recovery code. The sponsor can ask for review and provide evidence of rights or compliance. A review request does not require us to restore harmful content pending investigation. We aim to acknowledge electronic support requests promptly and give a substantive response within five days, without displacing a shorter mandatory deadline.
+Consumer authorities, courts, data-protection authorities and payment-provider dispute procedures remain available. You do not have to abandon those avenues or pay for private arbitration to use support.
+
+
+Privacy notice: information and purposes
+MAGMARCAS LTDA is responsible for the personal data it processes for this game and sponsorship service. The company and privacy contact are identified above. We use the minimum information needed for the following purposes.
+Information | Use and legal basis | 
+Company identity, artwork, website, sponsorship ID, accepted terms version and payment/refund records | Provide and document the advertising contract; fulfill legal duties and handle claims. Name, artwork, website and ranking balance are public. | 
+Recovery-code hash and security records | Authenticate sponsorship management and prevent misuse, using contractual necessity and proportionate legitimate interests in security. | 
+Support messages and evidence | Answer requests, exercise rights, investigate complaints and meet legal obligations. Access is limited to people who need it. | 
+Browser preferences, downloaded game assets and active-play progress | Stored on your device to operate the game, remember choices and enable offline play. The active-play counter is not uploaded to the sponsor server. | 
+Optional page-visit analytics | Only after your opt-in, PostHog receives page-view/page-leave events, a browser identifier and ordinary device/network metadata to help us understand site use. Consent can be withdrawn below. | 
+There is no behavior-based sponsor targeting. Sponsors receive no player profiles or individual viewing reports. There is no session recording, automatic click capture or tracking of game controls in our analytics configuration. We do not sell player data. Do Not Track and Global Privacy Control disable optional analytics. Essential network requests still expose IP addresses and technical metadata to infrastructure providers.
+
+
+Providers, storage & your rights
+Stripe collects payment, billing, fraud-prevention and any required tax information on its own checkout. We retain payment references and financial status, not full card details or CVCs. Stripe also has independent legal and fraud-prevention obligations; see Stripe’s privacy policy (https://stripe.com/br/privacy). Our planned hosting uses Amazon Web Services in the United States. Optional analytics use PostHog’s US service. Providers may process data in other countries under applicable contracts and transfer safeguards; requests for details go to the privacy contact.
+Local game data remain on your device until you clear them. Clearing browser storage can erase offline files, playtime progress and recovery codes; retain a private copy of the code first. Sponsorship material is retained while the listing operates. Financial, accepted-terms and dispute records may need retention after removal to meet accounting requirements or establish legal claims. We review retained data and remove or anonymize it when those purposes end; backups and provider records can follow separate lawful retention periods. A removal from the public leaderboard is not the same as erasing all financial records.
+You can request confirmation, access, correction, deletion or anonymization where applicable, information about sharing, portability subject to applicable rules, and review of a disputed placement or automated calculation. You may withdraw optional consent and object to unlawful processing. We may request proportionate proof of identity. Deletion requests do not require you to surrender statutory refund rights, and legally required retention is explained where it limits deletion. You may also contact Brazil’s ANPD.
+Do not provide children’s personal data as advertiser material or in support requests. Optional analytics should remain off for children. Ads are not tailored to a child’s interests or playtime. Any child-protection obligations apply regardless of these terms; describing the game as free or the advertiser as an adult does not exclude them.
+
+
+Your privacy choice
+Optional analytics are off unless you enable them on this device. Playing and sponsoring work without them. Changing this choice never changes the sponsor ranking or the hour-of-play counter.
+JavaScript is needed to change the local analytics preference. With scripts disabled, this legal page does not send analytics.
+
+
+Changes, applicable law & preserved rights
+Each order records the terms version accepted when checkout was requested. A later payment requires the current version. We keep a saveable version of the terms, and material changes affecting an existing paid sponsorship will be clearly notified before taking effect, except urgent changes needed to stop unlawful or harmful activity. We do not retroactively remove accrued refund rights. If we cannot continue the purchased placement under a material change, we offer cancellation and the applicable refund.
+Brazilian law governs the contract, subject to any mandatory protections applicable in your jurisdiction. No clause imposes compulsory arbitration, an exclusive forum that removes consumer protections, a waiver of data rights, or a blanket exclusion of liability. Liability and remedies remain governed by applicable law. If a provision cannot be enforced, the remaining lawful provisions continue where possible. The Portuguese text is the principal Brazilian offer; translations assist understanding and do not reduce mandatory rights.
+These terms regulate the sponsorship service. They do not license third-party game assets beyond their existing licenses, endorse advertisers, or replace the privacy and purchase terms of sites you choose to visit.

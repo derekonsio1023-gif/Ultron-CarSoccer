@@ -1,0 +1,107 @@
+Termos de patrocínio e privacidade
+Versão 2026-09-12.2
+Minuta para lançamento · 12 de setembro de 2026. Os pagamentos de patrocínio estão em modo de teste. Esta página não anuncia o início de vendas reais.
+
+Resumo do contrato
+Car Soccer é gratuito para jogar. O patrocínio é uma compra de publicidade da MAGMARCAS LTDA, não uma doação, investimento, participação societária, depósito, sorteio ou aposta. O pagamento não melhora o carro, a pontuação ou o resultado das partidas. Não há assinatura nem renovação automática.
+Você compra uma participação em um ranking público de anunciantes pagos. A exibição na arena depende dessa posição variável. O primeiro pagamento parte de US$ 5; cada aumento deve ser de pelo menos US$ 1. Os pagamentos continuam cobrados quando outro anunciante supera seu saldo. Da 19ª posição em diante há apenas presença no diretório, sem placa no campo. Leia as limitações de exibição e as regras de reembolso antes de pagar.
+O resumo do checkout, estes termos e a política de conteúdo aceita integram a oferta. Direitos obrigatórios continuam aplicáveis mesmo quando não repetidos no resumo. Salve ou imprima esta versão.
+
+
+Fornecedor, contato e contratação
+MAGMARCAS LTDA
+CNPJ 50.616.924/0001-95
+Rua 137, nº 556, Edifício Alvorada, Sala 101, Setor Marista, Goiânia, GO, CEP 74170-120, Brasil
+Atendimento, cancelamento, denúncias e privacidade: support@xl-master.com (mailto:support@xl-master.com).
+O representante contratante deve ter 18 anos ou mais, capacidade para contratar e autorização do anunciante e do titular do meio de pagamento. Não envie dados pessoais de crianças. Jogar não exige comprar publicidade.
+O representante confirma a exatidão do nome, site, arte e instruções de pagamento. Guarde o código de recuperação em segurança. Armazenamos seu resumo criptográfico, não uma cópia legível; ele permite gerenciar o patrocínio. Em caso de perda, o atendimento poderá exigir prova proporcional de titularidade. Nunca precisamos do número completo do cartão, CVC ou senha bancária em uma solicitação de suporte.
+
+
+Preço, checkout e confirmação
+Os saldos desejados são expressos em dólares americanos inteiros, até US$ 100.000 por patrocínio. Se o saldo confirmado for US$ 5 e você escolher US$ 12, a nova cobrança será de US$ 7. Tributos e valores reembolsados não contam para o ranking. Um reembolso parcial pode deixar centavos no saldo; cobraremos a diferença exata até o novo total inteiro, respeitado o aumento mínimo de US$ 1.
+Antes de pagar, confira arte, destino, saldo pretendido, acréscimo, moeda e tributos. É possível corrigir o formulário e sair ou cancelar um checkout não pago. A posição estimada é uma previsão, não uma reserva. Outros anunciantes podem pagar durante seu checkout. A publicação começa somente após a confirmação do pagamento pelo provedor; meios de confirmação posterior podem demorar. Pagamentos pendentes ou recusados não geram crédito.
+A Stripe recebe os dados de pagamento em seu checkout. A cobrança final, os tributos aplicáveis e os meios disponíveis aparecem nessa etapa. O banco pode cobrar câmbio ou tarifas internacionais próprias, que não são saldo publicitário nem cobranças recebidas por nós. O modelo em dólares é, neste momento, uma oferta de teste; moedas e países atendidos devem ser informados antes das vendas reais. O recibo da Stripe não substitui documento fiscal brasileiro legalmente exigido.
+
+
+Cálculo do ranking
+Ordenamos os patrocínios ativos e elegíveis pela soma dos pagamentos publicitários confirmados, descontados os reembolsos. O maior saldo vem primeiro. Em caso de empate, vence o patrocínio cujo primeiro pagamento foi confirmado antes pelo nosso serviço. Persistindo empate de horário, usamos o identificador armazenado do patrocínio. O cálculo é determinístico, sem sorteio.
+Os pagamentos anteriores continuam contando, sem rodada diária nem zeragem automática. A data da primeira confirmação continua como desempate nos aumentos. Estornos reduzem o saldo; uma contestação bancária pode suspender a exibição até ser resolvida. Patrocínios removidos ou sem saldo positivo saem do ranking. O saldo mede publicidade adquirida: não é carteira transferível nem valor sacável, salvo pelos reembolsos previstos.
+Nome, site, arte normalizada e saldo publicitário líquido ficam públicos. Não contrate se não desejar essa divulgação. Não vendemos aumentos secretos de posição. É proibido criar entradas artificiais ou mentir sobre titularidade para manipular a distribuição.
+
+
+20 placas e 18 posições principais
+Distribuição principal com pelo menos 18 anunciantes elegíveis
+Posição | Local | Placas | 
+1 | Extremidades opostas, sob CAR-SOCCER.COM | 2 | 
+2 | Laterais opostas nas arquibancadas | 2 | 
+3 a 18 | Uma placa na faixa entre a curva do campo e a parede | 1 por anunciante | 
+19 em diante | Somente o ranking público | 0 na arena | 
+Todas as artes mantêm proporção 4:1. As placas do primeiro colocado são as maiores; as do segundo são um pouco menores; as da faixa são menores novamente. No desenho visto de cima, as placas da faixa aparecem como linhas, mas a arte exibida no jogo mantém 4:1.
+Com menos de 18 anunciantes elegíveis, primeiro garantimos as posições principais. As placas restantes são divididas entre os anunciantes da arena proporcionalmente aos saldos: usamos a parte inteira de cada cota e distribuímos as sobras pelos maiores restos fracionários; em empate, a melhor posição tem prioridade. As repetições são intercaladas ao redor da arena. Um único anunciante ocupa as 20 placas. Com US$ 10 na primeira posição e US$ 5 na segunda, recebem respectivamente 13 e 7 placas. Quando todas as posições principais são ocupadas, as repetições extras terminam.
+As repetições nunca substituem a posição principal de outro anunciante. Novos pagamentos, anunciantes, reembolsos e remoções podem mudar posições e repetições. Não há exclusividade, proibição de concorrentes ou período reservado em uma posição específica.
+
+
+Exibição, duração e escolhas do jogador
+Não prometemos número mínimo de espectadores, cliques, conversões, exibição ininterrupta ou permanência em uma posição. A participação continua enquanto elegível e enquanto o serviço de patrocínio operar, observados estes termos. Não é promessa de que o jogo existirá para sempre. Mudanças normais de posição, por si só, não geram reembolso.
+Quando conectado, o jogo utiliza a lista disponível mais recente, normalmente atualizada aproximadamente a cada minuto com a página visível. Falhas de rede, jogo offline, abas antigas e manutenção podem atrasar ou impedir a exibição. Artes próprias do jogo substituem placas indisponíveis. A câmera e a movimentação influenciam a visibilidade. As placas da arena não abrem sites; links do diretório abrem destinos externos por escolha do jogador.
+Após uma hora acumulada de jogo ativo, o jogador pode ocultar as placas naquele dispositivo. O tempo soma entre sessões e exclui menus, inatividade e páginas sem foco. Ocultar o cenário do estádio não oculta as placas. Salvaguardas de acessibilidade, proteção de crianças ou outras exigências legais podem limitar adicionalmente a publicidade. A opção de uma hora não restringe proteções obrigatórias.
+Se encerrarmos definitivamente o serviço ou removermos um anunciante por deixarmos de oferecer sua veiculação, interromperemos novas cobranças e reembolsaremos os pagamentos remanescentes pelo procedimento abaixo. A ausência de garantia de impressões não limita direitos legais diante de descumprimento da oferta.
+
+
+Arte, destinos e conteúdo proibido
+Use identidade empresarial verdadeira e destino HTTPS público sob seu controle ou que você esteja autorizado a representar. Obtenha as permissões necessárias de direitos autorais, marca, imagem e demais direitos. Cadastro ou pagamento não significam endosso, certificação ou aprovação do negócio anunciado.
+Envie PNG, JPEG ou WebP estático, até 2 MB e 16 megapixels. Recomendamos 1600 × 400. Redimensionamos proporcionalmente para 4:1, com fundo quando necessário, e removemos metadados. Não são permitidos animação, flashes, QR codes, botões disfarçados ou imagens que imitem controles do jogo.
+Sem conteúdo sexual, nudez, serviços adultos, violência gráfica ou palavrões.
+Sem ódio, extremismo, assédio, discriminação, ataques pessoais ou exposição de dados privados de terceiros.
+Sem fraude, alegações enganosas, falsa identidade, downloads maliciosos, pirataria, produtos ilegais ou violação de direitos.
+Sem apostas, jogos de azar, bebidas alcoólicas, tabaco, cigarros eletrônicos, drogas recreativas, armas ou sua promoção.
+Sem campanha política, promoção financeira de alto risco, enriquecimento rápido ou alegações médicas sem comprovação.
+Sem publicidade direcionada a crianças, pressão para que comprem ou peçam compras a adultos, ou uso de imagens de crianças para promover o patrocínio.
+As regras abrangem nome, imagem, site e conteúdo alcançado a partir dele. Não substitua um destino adequado por conteúdo proibido depois do pagamento. Podemos solicitar prova de direitos e comprovação de alegações, além de restringir conteúdo quando necessário para cumprir a lei ou exigências do provedor de pagamento. Mudanças materiais na política seguem o procedimento ao final.
+
+
+Autorização de uso da marca
+A titularidade continua com você. Você concede à MAGMARCAS autorização não exclusiva, mundial e sem royalties adicionais para hospedar, reproduzir, redimensionar e exibir o material exclusivamente para executar o patrocínio no jogo, diretório e prévia de posicionamento. Provedores de hospedagem podem processá-lo para esses fins. Não adquirimos sua marca nem direito de vender sua arte a terceiros.
+A autorização dura enquanto o patrocínio estiver ativo e pelo período técnico limitado necessário para cessar a exibição e manter registros lícitos. Após a remoção, interrompemos novas exibições públicas pelo serviço. Jogos já abertos podem atualizar no próximo ciclo; cópias independentes de terceiros fogem ao nosso controle direto. Uso promocional mais amplo depende de autorização separada.
+
+
+Cancelamento, remoção e reembolso
+Você pode cancelar cada pagamento em até sete dias corridos após sua confirmação, sem justificar. Oferecemos essa opção contratual a todos os anunciantes, além de prazo legal maior ou com contagem diferente que seja aplicável. Em Sponsors → Manage a sponsorship, restaure o código, selecione “Cancel & refund this payment” e confirme. O serviço registra imediatamente o pedido e mostra o status. Também é possível solicitar pelo contato acima. Um pedido tempestivo não perde validade por ser processado depois.
+O reembolso de um acréscimo reduz o saldo por esse valor. O reembolso integral de todos os pagamentos retira a participação paga do ranking. Após a opção de sete dias, arrependimento simples, perda de posição ou de repetições, isoladamente, não obrigam reembolso. Permanecem os direitos relativos a falha do serviço, publicidade enganosa, pagamento não autorizado e outros fundamentos obrigatórios. Contate o atendimento se o botão estiver indisponível ou houver outros direitos aplicáveis.
+Se removermos um patrocínio por violação das regras de conteúdo, ocultaremos a marca e reembolsaremos todos os pagamentos remanescentes, incluindo tributos por nós cobrados, sem descontar taxas de processamento. O mesmo vale para encerramento definitivo por nossa iniciativa. Valores já devolvidos não são devolvidos novamente. Contestações ou estornos devem ser coordenados com a Stripe ou o banco para evitar duplicidade, sem renúncia ao direito de reembolso válido.
+Normalmente, a devolução segue o meio de pagamento original. Iniciamos a solicitação prontamente; provedor e banco controlam sua aparição, frequentemente em cerca de 5 a 10 dias úteis para cartões. Pendências ou falhas continuam sob nossa responsabilidade de resolução. Se o meio original não puder receber, o atendimento organizará alternativa lícita após verificar a titularidade. Variações cambiais bancárias podem afetar o valor em moeda local, preservados os direitos legais de restituição.
+
+
+Denúncias, revisão e atendimento
+Denuncie anúncio inseguro, violação de direitos, falsa identidade ou problema de privacidade para support@xl-master.com (mailto:support@xl-master.com). Identifique anunciante e URL, explique o problema e envie evidências úteis, sem dados sensíveis desnecessários. Não é necessário comprar patrocínio para denunciar.
+Podemos ocultar temporariamente material suspeito enquanto verificamos. O motivo da remoção e o status financeiro ficam disponíveis mediante código de recuperação. O anunciante pode pedir revisão e apresentar provas de autorização ou conformidade. O pedido não exige restaurar conteúdo potencialmente danoso durante a apuração. Buscamos confirmar prontamente as solicitações eletrônicas e responder ao mérito em até cinco dias, sem afastar prazo obrigatório menor.
+Continuam disponíveis órgãos de defesa do consumidor, Judiciário, autoridades de proteção de dados e procedimentos de contestação do pagamento. O atendimento não exige renúncia a essas vias nem pagamento por arbitragem privada.
+
+
+Privacidade: dados e finalidades
+A MAGMARCAS LTDA é responsável pelos dados pessoais que trata para este jogo e serviço. A identificação e o contato de privacidade estão acima. Utilizamos as informações necessárias às finalidades abaixo.
+Dados | Finalidade e fundamento | 
+Identidade empresarial, arte, site, identificador, versão aceita dos termos e registros de pagamentos e reembolsos | Execução e documentação do contrato publicitário, obrigações legais e exercício de direitos. Nome, arte, site e saldo do ranking são públicos. | 
+Resumo criptográfico do código de recuperação e registros de segurança | Autenticação e prevenção de abuso, pela necessidade contratual e por interesses legítimos proporcionais de segurança. | 
+Mensagens e evidências de atendimento | Responder, exercer direitos, apurar denúncias e cumprir obrigações. Acesso limitado a quem precisa. | 
+Preferências, arquivos offline e progresso de tempo ativo | Armazenamento no dispositivo para funcionamento e escolhas do jogo. O contador de tempo ativo não é enviado ao servidor de patrocínio. | 
+Estatísticas opcionais de visitas | Somente com sua autorização, a PostHog recebe eventos de abertura/saída da página, identificador do navegador e metadados comuns de dispositivo/rede para entender o uso do site. A autorização pode ser retirada abaixo. | 
+Não direcionamos patrocínios com base em comportamento. Anunciantes não recebem perfis de jogadores nem relatórios individuais de visualização. Nossa configuração não grava sessões, captura cliques automaticamente ou acompanha controles do jogo. Não vendemos dados dos jogadores. Do Not Track e Global Privacy Control desativam estatísticas opcionais. Requisições essenciais ainda expõem IP e metadados técnicos aos provedores de infraestrutura.
+
+
+Provedores, conservação e seus direitos
+A Stripe coleta dados de pagamento, cobrança, prevenção de fraude e tributos exigidos em seu próprio checkout. Guardamos referências e status financeiro, não números completos de cartão ou CVC. A Stripe também possui obrigações próprias; consulte sua Política de Privacidade (https://stripe.com/br/privacy). A hospedagem planejada utiliza Amazon Web Services nos Estados Unidos; as estatísticas opcionais usam a PostHog nos EUA. Provedores podem tratar dados em outros países conforme contratos e salvaguardas aplicáveis; solicite detalhes pelo contato de privacidade.
+Dados locais ficam no dispositivo até serem apagados. Limpar o navegador pode eliminar arquivos offline, progresso de tempo e códigos: mantenha uma cópia privada do código. Material do patrocínio é conservado enquanto a participação operar. Registros financeiros, versões aceitas e disputas podem exigir conservação após remoção para fins contábeis ou exercício de direitos. Revisamos a necessidade e eliminamos ou anonimizamos quando cessarem as finalidades. Backups e registros de provedores podem seguir prazos legais próprios. Sair do ranking não equivale a apagar todos os registros financeiros.
+Você pode solicitar confirmação, acesso, correção, eliminação ou anonimização quando cabíveis, informações sobre compartilhamento, portabilidade conforme regras aplicáveis e revisão de cálculo automatizado ou posição contestada. Pode retirar consentimento opcional e questionar tratamento ilícito. Podemos exigir prova proporcional de identidade. Pedir exclusão não exige renunciar a reembolsos legais; eventual retenção obrigatória será explicada. Também é possível procurar a ANPD.
+Não envie dados de crianças em anúncios ou suporte. Estatísticas opcionais devem permanecer desligadas para crianças. Anúncios não são personalizados por interesses ou tempo de jogo de crianças. Obrigações de proteção infantil aplicam-se independentemente destes termos: gratuidade ou contratação por adulto não as excluem.
+
+
+Sua escolha de privacidade
+As estatísticas opcionais ficam desligadas até que você as ative neste dispositivo. É possível jogar e patrocinar sem elas. A preferência não altera ranking nem contador de tempo ativo.
+JavaScript é necessário para mudar a preferência local. Com scripts desativados, esta página jurídica não envia estatísticas.
+
+
+Alterações, legislação e direitos preservados
+Cada pedido registra a versão aceita ao solicitar checkout. Um novo pagamento exige a versão atual. Mantemos cópia salvável, e mudanças materiais que afetem patrocínio pago serão comunicadas claramente antes de vigorar, salvo urgência para cessar atividade ilícita ou danosa. Não retiramos retroativamente direitos de reembolso adquiridos. Se não pudermos continuar a veiculação sob mudança material, ofereceremos cancelamento e reembolso cabível.
+Aplica-se a legislação brasileira, respeitadas proteções obrigatórias da jurisdição aplicável. Nenhuma cláusula impõe arbitragem compulsória, foro exclusivo que retire proteção do consumidor, renúncia a direitos sobre dados ou exclusão geral de responsabilidade. Responsabilidade e reparações seguem a lei. Uma disposição inexequível não impede a continuidade das demais disposições lícitas, quando possível. O português é o texto principal da oferta brasileira; traduções auxiliam a compreensão sem reduzir direitos obrigatórios.
+Estes termos regulam o patrocínio. Não ampliam licenças de ativos de terceiros, não endossam anunciantes e não substituem termos de compra e privacidade dos sites que você escolher visitar.
