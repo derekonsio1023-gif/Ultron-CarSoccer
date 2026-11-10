@@ -1,5 +1,5 @@
 const CACHE_PREFIX = "car-soccer-offline-";
-const CACHE_NAME = CACHE_PREFIX + "d5f32609df9cf5083b30";
+const CACHE_NAME = CACHE_PREFIX + "59a49542a46f2945e4d9";
 const BASE_URL = new URL(".", self.location.href);
 const MANIFEST_PATH = new URL("offline-manifest.json", BASE_URL).href;
 const MANIFEST_KEY = new URL("__car-soccer-offline-manifest__", BASE_URL).href;
@@ -42,7 +42,7 @@ async function cacheEntries(cache, manifest) {
       }
 
       const options = { cache: "reload" };
-      if (entry.integrity && !["/index.html", "/online.html"].includes(url.pathname)) {
+      if (entry.integrity && !entry.contentType?.startsWith("text/html")) {
         options.integrity = entry.integrity;
       }
       const response = await fetch(new Request(url.href, options));

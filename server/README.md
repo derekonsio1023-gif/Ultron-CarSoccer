@@ -33,10 +33,12 @@ server directly to the public internet.
 ### GitHack frontend
 
 The root `index.html` can also be served from a GitHub repository with GitHack.
-Its asset URLs are relative to the repository path, while multiplayer API and
-WebSocket traffic use `CAR_SOCCER_API_BASE` in the page and connect to this
-server over HTTPS/WSS. The server allows the `https://raw.githack.com` origin by
-default; set `CORS_ORIGINS` to a comma-separated origin list to change that.
+Its asset URLs are relative to the repository path. Offline installation is
+disabled on the GitHack frontend because its CDN may not serve every asset
+consistently for service-worker caching. Multiplayer API and WebSocket traffic
+use `CAR_SOCCER_API_BASE` in the page and connect to this server over HTTPS/WSS.
+The server allows the `https://raw.githack.com` origin by default; set
+`CORS_ORIGINS` to a comma-separated origin list to change that.
 
 After changing the frontend or server, push the changes to GitHub and wait for
 Render to redeploy the server. Open the GitHack URL for the repository's
