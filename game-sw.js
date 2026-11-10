@@ -1,5 +1,5 @@
 const CACHE_PREFIX = "car-soccer-offline-";
-const CACHE_NAME = CACHE_PREFIX + "ec6f4cf802fd560e2cb2";
+const CACHE_NAME = CACHE_PREFIX + "d5f32609df9cf5083b30";
 const BASE_URL = new URL(".", self.location.href);
 const MANIFEST_PATH = new URL("offline-manifest.json", BASE_URL).href;
 const MANIFEST_KEY = new URL("__car-soccer-offline-manifest__", BASE_URL).href;

@@ -1,7 +1,7 @@
 {
   "name": "Car Soccer",
   "short_name": "Car Soccer",
-  "start_url": "./",
+  "start_url": "https://raw.githack.com/derekonsio1023-gif/Ultron-CarSoccer/main/index.html",
   "display": "standalone",
   "background_color": "#0a0f16",
   "theme_color": "#0a0f16",
