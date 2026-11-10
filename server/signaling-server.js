@@ -13,6 +13,12 @@ const PORT = Number(process.env.PORT || 8080);
 const TLS_PFX_PATH = process.env.TLS_PFX_PATH;
 const TLS_PFX_PASSPHRASE = process.env.TLS_PFX_PASSPHRASE;
 const MAX_BODY_BYTES = 16 * 1024;
+const ALLOWED_ORIGINS = new Set(
+  (process.env.CORS_ORIGINS || "https://raw.githack.com,https://ultron-carsoccer.onrender.com")
+    .split(",")
+    .map((origin) => origin.trim())
+    .filter(Boolean),
+);
 const ROOM_ID_PATTERN = /^[a-f0-9]{32}$/;
 const rooms = new Map();
 const admissions = new Map();
@@ -455,6 +461,27 @@ async function handleRequest(request, response) {
   } catch {
     sendJson(response, 400, { error: "Invalid request URL." });
     return;
+  }
+
+  if (url.pathname.startsWith("/api/multiplayer/")) {
+    const origin = request.headers.origin;
+    response.setHeader("Vary", "Origin");
+    if (origin && ALLOWED_ORIGINS.has(origin)) {
+      response.setHeader("Access-Control-Allow-Origin", origin);
+    }
+    if (request.method === "OPTIONS") {
+      if (!origin || !ALLOWED_ORIGINS.has(origin)) {
+        sendJson(response, 403, { error: "Origin is not allowed." });
+        return;
+      }
+      response.writeHead(204, {
+        "Access-Control-Allow-Headers": "Content-Type",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+        "Access-Control-Max-Age": "600",
+      });
+      response.end();
+      return;
+    }
   }
 
   if (url.pathname === "/api/multiplayer/session" && request.method === "GET") {

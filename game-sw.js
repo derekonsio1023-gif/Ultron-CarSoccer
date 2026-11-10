@@ -1,13 +1,15 @@
 const CACHE_PREFIX = "car-soccer-offline-";
-const CACHE_NAME = CACHE_PREFIX + "1a1c7191133752e2a1fce";
-const MANIFEST_PATH = "/offline-manifest.json";
-const MANIFEST_KEY = new URL("/__car-soccer-offline-manifest__", self.location.origin).href;
+const CACHE_NAME = CACHE_PREFIX + "ec6f4cf802fd560e2cb2";
+const BASE_URL = new URL(".", self.location.href);
+const MANIFEST_PATH = new URL("offline-manifest.json", BASE_URL).href;
+const MANIFEST_KEY = new URL("__car-soccer-offline-manifest__", BASE_URL).href;
+const INDEX_URL = new URL("index.html", BASE_URL).href;
 const APP_DOCUMENTS = new Map([
-  ["/", "/index.html"],
-  ["/index.html", "/index.html"],
-  ["/embed", "/embed.html"],
-  ["/online", "/online.html"],
-  ["/legal", "/legal/index.html"],
+  [BASE_URL.pathname, INDEX_URL],
+  [new URL("index.html", BASE_URL).pathname, INDEX_URL],
+  [new URL("embed", BASE_URL).pathname, new URL("embed.html", BASE_URL).href],
+  [new URL("online", BASE_URL).pathname, new URL("online.html", BASE_URL).href],
+  [new URL("legal", BASE_URL).pathname, new URL("legal/index.html", BASE_URL).href],
 ]);
 
 async function loadManifest(cache) {
@@ -34,7 +36,7 @@ async function cacheEntries(cache, manifest) {
   for (let index = 0; index < entries.length; index += 6) {
     const batch = entries.slice(index, index + 6);
     await Promise.all(batch.map(async (entry) => {
-      const url = new URL(entry.url, self.location.origin);
+      const url = new URL(entry.url, BASE_URL);
       if (url.origin !== self.location.origin || !Number.isSafeInteger(entry.bytes)) {
         throw new Error(`Invalid offline manifest entry: ${entry.url}`);
       }
@@ -105,7 +107,7 @@ self.addEventListener("message", (event) => {
       const manifest = await loadManifest(cache);
       const missing = [];
       for (const entry of manifest.entries) {
-        const url = new URL(entry.url, self.location.origin);
+        const url = new URL(entry.url, BASE_URL);
         if (!(await cache.match(url.href))) missing.push(entry);
       }
       if (missing.length) {
@@ -134,8 +136,8 @@ self.addEventListener("fetch", (event) => {
     if (cached) return cached;
 
     if (request.mode === "navigate") {
-      const documentPath = APP_DOCUMENTS.get(url.pathname) || "/index.html";
-      const documentResponse = await cache.match(new URL(documentPath, self.location.origin).href);
+      const documentPath = APP_DOCUMENTS.get(url.pathname) || INDEX_URL;
+      const documentResponse = await cache.match(documentPath);
       if (documentResponse) return documentResponse;
     }
 

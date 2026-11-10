@@ -30,6 +30,18 @@ the host to reach it at the same origin as the game. WebSocket upgrades must be
 forwarded to `/api/multiplayer/room/*`. Do not expose the HTTP development
 server directly to the public internet.
 
+### GitHack frontend
+
+The root `index.html` can also be served from a GitHub repository with GitHack.
+Its asset URLs are relative to the repository path, while multiplayer API and
+WebSocket traffic use `CAR_SOCCER_API_BASE` in the page and connect to this
+server over HTTPS/WSS. The server allows the `https://raw.githack.com` origin by
+default; set `CORS_ORIGINS` to a comma-separated origin list to change that.
+
+After changing the frontend or server, push the changes to GitHub and wait for
+Render to redeploy the server. Open the GitHack URL for the repository's
+`index.html`, not the Render URL, to use the GitHack-hosted frontend.
+
 This is an initial 1v1-ready signaling implementation. It uses the client's
 existing STUN configuration; some NAT or firewall combinations may require a
 TURN service and a client update. Room data is held in memory, so rooms are
